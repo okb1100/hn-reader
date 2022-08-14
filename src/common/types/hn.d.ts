@@ -6,7 +6,7 @@ type HNItem = {
   type: string;
 };
 
-type Stories = Array<HNStory | HNAsk>;
+type Stories = HNStory[];
 type ListType = "new" | "top" | "best";
 
 type HNStory = HNItem & {
