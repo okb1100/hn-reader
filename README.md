@@ -1,6 +1,6 @@
 # Yet Another Hacker News Reader
 
-I created this project because I am using [Limit Extension]([Limit](https://chrome.google.com/webstore/detail/limit-set-limits-for-dist/blcdfhbibkkjpfdddnmnmhfgjlicebba?hl=en)) to limit how much time I spend reading on HN but it does not count the external links. 
+I created this project because I am using [Limit Extension](https://chrome.google.com/webstore/detail/limit-set-limits-for-dist/blcdfhbibkkjpfdddnmnmhfgjlicebba?hl=en) to limit how much time I spend reading on HN but it does not count the external links. 
 
 It shows a basic iframe preview of the posted link so I don't leave the current page while reading...
 
