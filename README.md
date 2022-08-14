@@ -6,25 +6,25 @@ It shows a basic iframe preview of the posted link so I don't leave the current 
 
 ## TODO
 
-[x] Fetch HN Posts
+- [x] Fetch HN Posts
 
-[x] Sort types (top, new, best)
+- [x] Sort types (top, new, best)
 
-[ ] Fix broken post urls or find a workaround
+- [ ] Fix broken post urls or find a workaround
 
-[ ] Pagination
+- [ ] Pagination
 
-[ ] Nice UI
+- [ ] Nice UI
 
-[ ] "Open link on new tab" button
+- [ ] "Open link on new tab" button
 
-[ ] Show comments section
+- [ ] Show comments section
 
-[ ] Show post metadata
+- [ ] Show post metadata
 
 
 ## Maybe
 
-[ ] Read later
+- [ ] Read later
 
-[ ] Live updates
+- [ ] Live updates
